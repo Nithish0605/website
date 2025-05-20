@@ -348,7 +348,7 @@ footer {
 # OUTPUT:
 ![alt text](<Screenshot 2025-05-20 202732.png>)
 ![alt text](<Screenshot 2025-05-20 202959.png>)
-![alt text](<Screenshot 2025-05-20 202959.png>)
+![Screenshot 2025-05-20 202800](https://github.com/user-attachments/assets/5d4187ea-6658-45a6-8f3c-e61473e371b0)
 ![alt text](<Screenshot 2025-05-20 202816.png>)
 
 # RESULT:
